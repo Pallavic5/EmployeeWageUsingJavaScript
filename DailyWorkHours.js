@@ -1,4 +1,4 @@
-/*Refactor the code to write a function to get work hours*/
+/*UC 3 : Refactor the code to write a function to get work hours*/
 
 const IS_PART_TIME = 1;
 const IS_FULL_TIME = 2;
